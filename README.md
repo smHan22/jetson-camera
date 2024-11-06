@@ -9,4 +9,4 @@
           그레이스케일 영상: 포트 8002
           이진화 영상: 포트 8003
 
-  ➨ 
+  ➨ https://github.com/smHan22/jetson-camera/blob/main/Makefile
