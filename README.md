@@ -32,10 +32,11 @@
     TARGET은 최종적으로 생성할 파일의 이름
   
 
-  - 빌드 규칙
+- 빌드 규칙
     터미널에서 make 명령어를 입력하면 $(TARGET):$(STCS) 규칙이 실행되어 camera 실행 파일을 생성.
 
 
 
-  ➨ main.cpp 코드
+
+➨ main.cpp 코드
     
